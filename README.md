@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan1&label=Profile%20views&color=0e75b6&style=flat" alt="pasan1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pasanabeysekara" target="_blank"><img src="https://img.shields.io/twitter/follow/pasanabeysekara?logo=twitter&style=for-the-badge" alt="pasanabeysekara" /></a> </p>
-
 
 - 🔭 I’m currently studying at [Institute of Java and Software Engineering.](https://www.ijse.lk/)
 
