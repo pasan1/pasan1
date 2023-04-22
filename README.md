@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan1&label=Profile%20views&color=0e75b6&style=flat" alt="pasan1" /> </p>
 
-- 🔭 I’m currently studying at [Institute of Java and Software Engineering.](https://www.ijse.lk/)
+- 🔭 I’m currently studying at [ICBT Campus.](https://icbt.lk/)
 
 - 🌱 I’m currently learning **Internet Technologies and Java EE.**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pasanabeysekara.com/](https://pasanabeysekara.com/)
 
-- 💬 Ask me about **Web and Java SE.**
+- 💬 Ask me about **Web Applications and Java.**
 
 - 📫 How to reach me **pasan.lahiru123@gmail.com**
 
